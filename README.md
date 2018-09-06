@@ -1,0 +1,1 @@
+This is a first attempt at a weather app. Using ReactJS/Axios/Reactstrap
