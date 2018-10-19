@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <SimpleView />
-        aaaa
+        aaaaaaaaa
       </div>
     );
   }
